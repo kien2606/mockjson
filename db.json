@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "Woman Warrior",
+            "image": "https://public.nftstatic.com/static/nft/res/3238eebacf20454abc09644d27782139.png",
+            "amount": "302.400"
+        },
+        {
+            "id": 2,
+            "name": "The Solarium 1",
+            "image": "https://public.nftstatic.com/static/nft/zipped/a2e5d3673ab5455ab5cf1800c8d95355_zipped.png",
+            "amount": "102.400"
+        },
+        {
+            "id": 3,
+            "name": "The Solarium 2",
+            "image": "https://public.nftstatic.com/static/nft/zipped/1dd74577f5114b99a4309ee4a417c936_zipped.png",
+            "amount": "243.800"
+        },
+        {
+            "id": 4,
+            "name": "The Solarium 3",
+            "image": "https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png",
+            "amount": "192.400"
+        }
+    ]
+}
